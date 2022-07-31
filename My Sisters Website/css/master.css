@@ -1,0 +1,66 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+}
+
+nav{
+  text-decoration-color: black;
+  background-color: #C4DDFF;
+}
+
+/*Navbar*/
+.navbar{
+  position: fixed;
+  padding: 0.5rem 2rem 0.5rem;
+  width: 100%;
+}
+.collapse{
+  padding-left: 40%;
+}
+.navbar-brand{
+  color: black;
+}
+.navbar-brand{
+  padding-left: 5%;
+}
+
+/*Title*/
+#Title {
+  background-color: #7FB5FF;
+  margin: 0;
+  height: 500px;
+}
+.gloria{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin: 1rem 0 1rem;
+}
+.headings{
+  margin-top: 10%;
+}
+.welcomePage{
+  padding-top: 100px;
+}
+
+/*Features*/
+#Features{
+  background-color: #001D6E;
+  height: 500px;
+  padding: 2.5rem;
+  padding-top: 7%;
+  color: white;
+}
+
+.card{
+  color: black;
+  margin: 0 25px;
+  width: 28.5%;
+}
+
+.featuresRow{
+  padding-top: 10%;
+}
